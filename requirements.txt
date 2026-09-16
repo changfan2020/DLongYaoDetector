@@ -1,0 +1,8 @@
+# 核心依赖（已验证版本）
+akshare>=1.18.94
+flask>=3.1.0
+pandas>=2.0
+numpy>=1.26
+
+# 可选：进阶对比测试用，装不上不影响主流程（默认关闭，set DRAGON_LGBM=1 启用）
+# lightgbm>=4.0

@@ -1,0 +1,18 @@
+# ---------- 大数据缓存 / 派生数据（约 300MB，可由 build_dataset.py 重建）----------
+data/
+logs/
+
+# ---------- Python ----------
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# ---------- 本机 / 编辑器 ----------
+.workbuddy/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+*.swp
